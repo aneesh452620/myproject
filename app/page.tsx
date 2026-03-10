@@ -7,6 +7,7 @@ export default function Home() {
   <div className="max-w-325 mx-auto w-full py-3 px-2">
     <h2 className="text-5xl text-black fw-black">Trends Virata</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur delectus cupiditate optio quisquam voluptatibus repellendus doloremque libero autem maiores, eligendi ratione amet minus laboriosam? Saepe nobis quis ea voluptate cumque.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur delectus cupiditate optio quisquam voluptatibus repellendus doloremque libero autem maiores, eligendi ratione amet minus laboriosam? Saepe nobis quis ea voluptate cumque.</p>
   </div>
 </div>
 
